@@ -1,0 +1,3 @@
+Fix the search feature in watchlist_widget
+add movie details page to watchlist_widget
+dynamically update watchlist data in the widget when adding movies to watchlist
